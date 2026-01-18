@@ -1,0 +1,2 @@
+This file represents a placeholder for Security Test Placeholder.
+You can replace it with BurpSuite/ZAP/Other tool exports.
